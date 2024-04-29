@@ -3,7 +3,7 @@
 ![image](https://github.com/fangoaish/fangoaish/assets/51399519/42afbd67-0354-41b8-9902-c7325b25f7a8)
 
 
-Hey there! I'm diving into the world of data analysis after years of excelling as a performance marketing manager, specializing in e-commerce and healthcare.
+Hey there! I'm diving into the world of data analysis after years of excelling as a Marketing Analyst, specializing in e-commerce and healthcare.
 
 - 🔍 Collect and preprocess data from diverse sources
 - 📈 Perform in-depth data analysis to identify business trends and opportunities
