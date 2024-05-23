@@ -5,8 +5,12 @@
 
 Hey there! I'm diving into the world of data analysis after years of excelling as a Marketing Analyst, specializing in e-commerce and healthcare.
 
-- 🔍 Collect and preprocess data from diverse sources
-- 📈 Perform in-depth data analysis to identify business trends and opportunities
-- 📊 Create data visualizations and reports to communicate findings effectively
-- 🗂 Collaborate with account managers to develop data-driven strategies and solutions
-- 💻 Present findings and recommendations to clients and internal teams
+- 🔍 Conducte data analysis and A/B tests to improve conversion rates.
+- 📈 Develop dashboards for actionable insights, enhancing operational efficiency.
+- 📊 Collaborate on data governance to improve data quality.
+- 🗂 Analyze customer data to provide strategic recommendations for sales and marketing.
+- 💻 Create automated performance reports for real-time insights.
+
+
+
+
